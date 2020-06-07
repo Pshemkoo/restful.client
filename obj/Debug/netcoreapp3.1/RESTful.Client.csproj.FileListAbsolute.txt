@@ -1,0 +1,13 @@
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful.Client\RESTful.Client\bin\Debug\netcoreapp3.1\RESTful.Client.exe
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful.Client\RESTful.Client\obj\Debug\netcoreapp3.1\RESTful.Client.csprojAssemblyReference.cache
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful.Client\RESTful.Client\obj\Debug\netcoreapp3.1\RESTful.Client.AssemblyInfoInputs.cache
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful.Client\RESTful.Client\obj\Debug\netcoreapp3.1\RESTful.Client.AssemblyInfo.cs
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful.Client\RESTful.Client\bin\Debug\netcoreapp3.1\RESTful.Client.deps.json
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful.Client\RESTful.Client\bin\Debug\netcoreapp3.1\RESTful.Client.runtimeconfig.json
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful.Client\RESTful.Client\bin\Debug\netcoreapp3.1\RESTful.Client.runtimeconfig.dev.json
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful.Client\RESTful.Client\bin\Debug\netcoreapp3.1\RESTful.Client.dll
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful.Client\RESTful.Client\bin\Debug\netcoreapp3.1\RESTful.Client.pdb
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful.Client\RESTful.Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful.Client\RESTful.Client\obj\Debug\netcoreapp3.1\RESTful.Client.csproj.CopyComplete
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful.Client\RESTful.Client\obj\Debug\netcoreapp3.1\RESTful.Client.dll
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful.Client\RESTful.Client\obj\Debug\netcoreapp3.1\RESTful.Client.pdb
